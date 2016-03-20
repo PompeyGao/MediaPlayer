@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MMMedia - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LLLll\AppData\Local\Temp\RSPEDAB.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/MMMedia.pdb" /debug /machine:I386 /out:"Debug/MMMedia.exe" /pdbtype:sept 
+".\Debug\About.obj"
+".\Debug\MMMedia.obj"
+".\Debug\MMMediaDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\wmpcdrom.obj"
+".\Debug\wmpcdromcollection.obj"
+".\Debug\wmpclosedcaption.obj"
+".\Debug\wmpcontrols.obj"
+".\Debug\wmpdvd.obj"
+".\Debug\wmperror.obj"
+".\Debug\wmperroritem.obj"
+".\Debug\wmpmedia.obj"
+".\Debug\wmpmediacollection.obj"
+".\Debug\wmpnetwork.obj"
+".\Debug\wmpplayer4.obj"
+".\Debug\wmpplayerapplication.obj"
+".\Debug\wmpplaylist.obj"
+".\Debug\wmpplaylistarray.obj"
+".\Debug\wmpplaylistcollection.obj"
+".\Debug\wmpsettings.obj"
+".\Debug\wmpstringcollection.obj"
+".\Debug\MMMedia.res"
+]
+Creating command line "link.exe @C:\Users\LLLll\AppData\Local\Temp\RSPEDAB.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+MMMedia.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
